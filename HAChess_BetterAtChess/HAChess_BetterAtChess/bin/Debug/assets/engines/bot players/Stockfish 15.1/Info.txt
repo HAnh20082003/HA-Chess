@@ -1,0 +1,5 @@
+Name: Stockfish 15.1
+Elo: 4000
+Level: -1
+PathBot: assets/engines/Stockfish 15.1/Stockfish 15.1.exe
+Depth: 25
