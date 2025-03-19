@@ -1,5 +1,0 @@
-Name: Ethereal 13
-Elo: 3590
-Level: -1
-PathBot: assets/engines/Ethereal 13/Ethereal 13.exe
-Depth: 25

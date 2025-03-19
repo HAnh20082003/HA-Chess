@@ -1,5 +1,0 @@
-Name: TH1511 GS
-Elo: 2000
-Level: 5
-PathBot: assets/engines/Stockfish 16/Stockfish 16.exe
-Depth: 25

@@ -1,5 +1,0 @@
-Name: Magnus Carlsen
-Elo: 2882
-Level: 18
-PathBot: assets/engines/Stockfish 16/Stockfish 16.exe
-Depth: 25
