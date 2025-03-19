@@ -1,5 +1,0 @@
-Name: MH GigaChad
-Elo: 1500
-Level: 2
-PathBot: assets/engines/Stockfish 16/Stockfish 16.exe
-Depth: 25

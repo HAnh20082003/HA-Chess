@@ -1,5 +1,0 @@
-Name: Fire 8.2
-Elo: 3457
-Level: -1
-PathBot: assets/engines/Fire 8.2/Fire 8.2.exe
-Depth: 19

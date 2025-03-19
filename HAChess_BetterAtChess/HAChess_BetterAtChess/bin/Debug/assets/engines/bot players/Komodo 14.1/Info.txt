@@ -1,5 +1,0 @@
-Name: Komodo 14.1
-Elo: 3892
-Level: -1
-PathBot: assets/engines/Komodo 14.1/Komodo 14.1.exe
-Depth: 20

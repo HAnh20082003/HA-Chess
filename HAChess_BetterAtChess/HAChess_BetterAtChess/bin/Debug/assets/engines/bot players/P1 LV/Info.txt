@@ -1,5 +1,0 @@
-Name: P1 LV
-Elo: 1000
-Level: 1
-PathBot: assets/engines/Stockfish 16/Stockfish 16.exe
-Depth: 25
