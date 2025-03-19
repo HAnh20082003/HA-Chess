@@ -1,0 +1,10 @@
+Vị trí loại bàn cờ: 1
+Vị trí màu ô sáng: 163
+Vị trí màu ô tối: 49
+Vị trí màu chọn quân: 142
+Vị trí màu gợi ý di chuyển: 171
+Vị trí màu gợi ý ăn quân: 46
+Vị trí màu nước trước: 85
+Vị trí màu nước đến: 165
+Vị trí màu ô gợi ý nước đi: 131
+Kiểu quân cờ: 3

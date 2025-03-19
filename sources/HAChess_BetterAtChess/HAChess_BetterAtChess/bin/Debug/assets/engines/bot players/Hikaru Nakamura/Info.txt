@@ -1,0 +1,5 @@
+Name: Hikaru Nakamura
+Elo: 2780
+Level: 17
+PathBot: assets/engines/Stockfish 16/Stockfish 16.exe
+Depth: 25

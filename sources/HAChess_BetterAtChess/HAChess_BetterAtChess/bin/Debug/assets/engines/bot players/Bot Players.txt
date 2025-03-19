@@ -1,0 +1,11 @@
+TV1 TH
+P1 LV
+MH GigaChad
+TH1511 GS
+Hikaru Nakamura
+Magnus Carlsen
+Fire 8.2
+Ethereal 13
+Komodo 14.1
+Stockfish 15.1
+Stockfish 16
