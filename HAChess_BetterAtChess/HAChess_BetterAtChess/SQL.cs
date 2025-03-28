@@ -8,8 +8,8 @@ namespace HAChess_BetterAtChess
 {
     public class SQL
     {
-        //private static string strConnection = @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=db_QLCoVua;MultipleActiveResultSets=True;";
-        private static string strConnection = @"Data Source=45.119.85.244;Initial Catalog=QLCoVua;Persist Security Info=True;User ID=QLCV;Password=QLCV@123;MultipleActiveResultSets=True;";
+        private static string strConnection = @"Data Source=(LocalDB)\MSSQLLocalDB;Initial Catalog=db_QLCoVua;MultipleActiveResultSets=True;";
+        //private static string strConnection = @"Data Source=45.119.85.244;Initial Catalog=QLCoVua;Persist Security Info=True;User ID=;Password=;MultipleActiveResultSets=True;";
         private static SqlConnection sqlConnection;
 
         public static string StrConnection { get => strConnection; set => strConnection = value; }
